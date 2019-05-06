@@ -1,0 +1,5 @@
+name: CrashPatch
+version: 1.0
+author: x1D
+
+main: xyz.exwundee.CrashPatch.CrashPatch
